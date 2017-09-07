@@ -128,7 +128,7 @@ func appsRunTest(t *testing.T, params *utils.DeisTestConfig) {
 	utils.Execute(t, "apps:run env", params, true, "GIT_SHA")
 	// Fleet/systemd unit files have a limit of 2048 characters per line or else one encounters
 	// problems parsing the unit.  To verify long log messages are truncated and do not crash
-	// logspout (see https://github.com/deis/deis/issues/2046) we must issue a (relatively) short
+	// logspout (see https://github.com/deisthree/deis/issues/2046) we must issue a (relatively) short
 	// command via `deis apps:run` that produces a LONG, but testable (predictable) log message we
 	// can search for in the output of `deis logs`.
 	//

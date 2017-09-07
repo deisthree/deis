@@ -99,6 +99,6 @@ ectd. For example:
     $ deisctl config router set controller/whitelist="10.0.1.0/24:office_intranet,121.212.121.212:dev_jenkins"
 
 
-.. _`#986`: https://github.com/deis/deis/issues/986
-.. _`contrib/util/custom-firewall.sh`: https://github.com/deis/deis/blob/master/contrib/util/custom-firewall.sh
-.. _`router README`: https://github.com/deis/deis/blob/master/router/README.md
+.. _`#986`: https://github.com/deisthree/deis/issues/986
+.. _`contrib/util/custom-firewall.sh`: https://github.com/deisthree/deis/blob/master/contrib/util/custom-firewall.sh
+.. _`router README`: https://github.com/deisthree/deis/blob/master/router/README.md

@@ -133,8 +133,8 @@ Any Release
 
 - Update the installer scripts at `deis/deis.io`_ to reference new version A.B.D
 
-  - https://github.com/deis/deis.io/blob/gh-pages/deis-cli/install.sh
-  - https://github.com/deis/deis.io/blob/gh-pages/deisctl/install.sh
+  - https://github.com/deisthree/deis.io/blob/gh-pages/deis-cli/install.sh
+  - https://github.com/deisthree/deis.io/blob/gh-pages/deisctl/install.sh
 
 - Update published doc versions at ReadTheDocs
 
@@ -202,9 +202,9 @@ Major or Minor Release
 - Update Slack channel topic to reference the next planned version
 
 
-.. _`deis milestone`: https://github.com/deis/deis/issues/milestones
-.. _`deis open issues`: https://github.com/deis/deis/issues?state=open
-.. _`changelog script`: https://github.com/deis/deis/blob/master/contrib/util/generate-changelog.sh
-.. _`release notes`: https://github.com/deis/deis/releases
-.. _`deis/deis.io`: https://github.com/deis/deis.io
+.. _`deis milestone`: https://github.com/deisthree/deis/issues/milestones
+.. _`deis open issues`: https://github.com/deisthree/deis/issues?state=open
+.. _`changelog script`: https://github.com/deisthree/deis/blob/master/contrib/util/generate-changelog.sh
+.. _`release notes`: https://github.com/deisthree/deis/releases
+.. _`deis/deis.io`: https://github.com/deisthree/deis.io
 .. _`test-acceptance`: https://ci.deis.io/job/test-acceptance/configure

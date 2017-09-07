@@ -120,7 +120,7 @@ start installing the platform.
 
 .. _`Azure CLI`: https://azure.microsoft.com/en-us/documentation/articles/xplat-cli-install/
 .. _`Azure Resource Manager`: https://azure.microsoft.com/en-us/documentation/articles/resource-manager-deployment-model/
-.. _`contrib/azure`: https://github.com/deis/deis/tree/master/contrib/azure
+.. _`contrib/azure`: https://github.com/deisthree/deis/tree/master/contrib/azure
 .. _`organizational account`: http://www.brucebnews.com/2013/04/the-difference-between-a-microsoft-account-and-an-office-365-account/
 .. _`premium storage`: https://azure.microsoft.com/en-us/services/storage/premium-storage/
 .. _`some regions`: https://azure.microsoft.com/en-us/regions/#services

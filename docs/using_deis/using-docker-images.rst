@@ -14,7 +14,7 @@ Start by cloning an example application:
 
 .. code-block:: console
 
-    $ git clone https://github.com/deis/example-go.git
+    $ git clone https://github.com/deisthree/example-go.git
     $ cd example-go
     $ git checkout docker
 
@@ -82,4 +82,4 @@ running that process.
 .. _`Docker Image`: https://docs.docker.com/introduction/understanding-docker/
 .. _`DockerHub`: https://registry.hub.docker.com/
 .. _`CMD instruction`: https://docs.docker.com/reference/builder/#cmd
-.. _`issue 1156`: https://github.com/deis/deis/issues/1156
+.. _`issue 1156`: https://github.com/deisthree/deis/issues/1156

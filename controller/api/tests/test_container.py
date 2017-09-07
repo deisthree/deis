@@ -340,7 +340,7 @@ class ContainerTest(TransactionTestCase):
                          "{}.{}.{}".format(container.app, container.type, container.num))
 
     def test_container_command_format(self):
-        # regression test for https://github.com/deis/deis/pull/1285
+        # regression test for https://github.com/deisthree/deis/pull/1285
         url = '/v1/apps'
         response = self.client.post(url, HTTP_AUTHORIZATION='token {}'.format(self.token))
         self.assertEqual(response.status_code, 201)

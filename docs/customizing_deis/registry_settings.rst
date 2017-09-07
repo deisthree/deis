@@ -80,5 +80,5 @@ registry:
 Be sure that your custom image functions in the same way as the `stock registry image`_ shipped with
 Deis. Specifically, ensure that it sets and reads appropriate etcd keys.
 
-.. _`stock registry image`: https://github.com/deis/deis/tree/master/registry
+.. _`stock registry image`: https://github.com/deisthree/deis/tree/master/registry
 .. _`README`: https://github.com/dotcloud/docker-registry/blob/master/README.md

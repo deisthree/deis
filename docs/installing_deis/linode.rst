@@ -250,7 +250,7 @@ Then provision the cluster as described above and afterwards reapply the firewal
 
 
 .. _`added as a proxy to the existing cluster`: https://coreos.com/etcd/docs/latest/clustering.html#public-etcd-discovery-service
-.. _`contrib/linode`: https://github.com/deis/deis/tree/master/contrib/linode
+.. _`contrib/linode`: https://github.com/deisthree/deis/tree/master/contrib/linode
 .. _`Linode Account Settings`: https://manager.linode.com/account/settings
 .. _`Linode API Keys`: https://manager.linode.com/profile/api
 .. _`pip`: https://pip.pypa.io/en/stable/

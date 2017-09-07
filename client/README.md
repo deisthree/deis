@@ -2,8 +2,8 @@
 
 `deis` is a command line utility used to interact with the [Deis](http://deis.io) open source PaaS.
 
-Please add any [issues](https://github.com/deis/deis/issues) you find with this software to
-the [Deis Project](https://github.com/deis/deis).
+Please add any [issues](https://github.com/deisthree/deis/issues) you find with this software to
+the [Deis Project](https://github.com/deisthree/deis).
 
 ## Installation
 

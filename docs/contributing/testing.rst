@@ -165,7 +165,7 @@ variables that can affect the tests' behavior. Here are some important ones:
 .. _`integration tests`: http://en.wikipedia.org/wiki/Integration_testing
 .. _`continuous integration`: http://en.wikipedia.org/wiki/Continuous_integration
 .. _`Docker Machine`: http://docs.docker.com/machine/install-machine/
-.. _`source code`: https://github.com/deis/deis
+.. _`source code`: https://github.com/deisthree/deis
 .. _`Docker registry`: https://github.com/docker/docker-registry
 .. _`Deis example app`: https://github.com/deis?query=example-
 .. _`s3cmd`: http://s3tools.org/s3cmd

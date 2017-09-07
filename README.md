@@ -1,4 +1,4 @@
-|![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Warning.svg/156px-Warning.svg.png) | This repository (`deis/deis`) is [no longer developed or maintained](https://deis.com/blog/2017/deis-paas-v1-takes-a-bow/). The Deis v1 PaaS based on CoreOS Container Linux and Fleet has been replaced by [Deis Workflow](https://github.com/deis/workflow) which is based on Kubernetes. |
+|![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Warning.svg/156px-Warning.svg.png) | This repository (`deis/deis`) is [no longer developed or maintained](https://deis.com/blog/2017/deis-paas-v1-takes-a-bow/). The Deis v1 PaaS based on CoreOS Container Linux and Fleet has been replaced by [Deis Workflow](https://github.com/deisthree/workflow) which is based on Kubernetes. |
 |---|---|
 
 # Deis v1 PaaS
@@ -6,7 +6,7 @@
 Deis (pronounced DAY-iss) is an open source PaaS that makes it easy to deploy and manage applications on your own servers. Deis builds upon [Docker](http://docker.io/) and [CoreOS](http://coreos.com) to provide a lightweight PaaS with a [Heroku-inspired](http://heroku.com) workflow.
 
 [![Build Status](https://ci.deis.io/buildStatus/icon?job=test-acceptance)](https://ci.deis.io/job/test-acceptance/)
-[![Current Release](http://img.shields.io/badge/release-v1.13.4-1eb0fc.svg)](https://github.com/deis/deis/releases/tag/v1.13.4)
+[![Current Release](http://img.shields.io/badge/release-v1.13.4-1eb0fc.svg)](https://github.com/deisthree/deis/releases/tag/v1.13.4)
 [![Latest Docs](http://img.shields.io/badge/docs-latest-fc1e5e.svg)](http://docs.deis.io/en/latest/)
 
 New to Deis?  Learn more about Deis [Concepts](http://docs.deis.io/en/latest/understanding_deis/concepts/), [Architecture](http://docs.deis.io/en/latest/understanding_deis/architecture/) and how to [Deploy an Application](http://docs.deis.io/en/latest/using_deis/deploy-application/).

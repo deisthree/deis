@@ -23,7 +23,7 @@ var (
 
 func limitsSetTest(t *testing.T, cfg *utils.DeisTestConfig, ver int) {
 	cpuCmd, memCmd := limitsSetCPUCmd, limitsSetMemCmd
-	// regression test for https://github.com/deis/deis/issues/1563
+	// regression test for https://github.com/deisthree/deis/issues/1563
 	// previously the client would throw a stack trace with empty limits
 	utils.Execute(t, limitsListCmd, cfg, false, "Unlimited")
 	if strings.Contains(cfg.ExampleApp, "dockerfile") {

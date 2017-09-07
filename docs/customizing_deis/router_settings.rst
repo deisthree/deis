@@ -108,7 +108,7 @@ registry:
 Be sure that your custom image functions in the same way as the `stock router image`_ shipped with
 Deis. Specifically, ensure that it sets and reads appropriate etcd keys.
 
-.. _`stock router image`: https://github.com/deis/deis/tree/master/router
+.. _`stock router image`: https://github.com/deisthree/deis/tree/master/router
 
 
 .. _proxy_protocol:

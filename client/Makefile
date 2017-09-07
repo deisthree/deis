@@ -18,7 +18,7 @@ install: build
 	cp deis $$GOPATH/bin
 
 installer: build
-	@if [ ! -d makeself ]; then git clone -b single-binary https://github.com/deis/makeself.git; fi
+	@if [ ! -d makeself ]; then git clone -b single-binary https://github.com/deisthree/makeself.git; fi
 	PATH=./makeself:$$PATH BINARY=deis makeself.sh --bzip2 --current --nox11 . \
 		deis-cli-`cat deis-version`-`go env GOOS`-`go env GOARCH`.run \
 		"Deis CLI" "echo \

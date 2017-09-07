@@ -14,7 +14,7 @@ import (
 )
 
 var (
-	gitCloneCmd  = "if [ ! -d {{.ExampleApp}} ] ; then git clone https://github.com/deis/{{.ExampleApp}}.git ; fi"
+	gitCloneCmd  = "if [ ! -d {{.ExampleApp}} ] ; then git clone https://github.com/deisthree/{{.ExampleApp}}.git ; fi"
 	gitRemoveCmd = "git remote remove deis"
 	gitPushCmd   = "git push deis master"
 )

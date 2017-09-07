@@ -38,6 +38,6 @@ Interact with the community on our user mailing list or live in our IRC channel,
 #deis on Freenode, where you can chat with other Deis users any time of day.
 
 
-.. _`Github issue`: https://github.com/deis/deis/issues/new
-.. _`docs/`: https://github.com/deis/deis/tree/master/docs
-.. _`easy-fix`: https://github.com/deis/deis/labels/easy-fix
+.. _`Github issue`: https://github.com/deisthree/deis/issues/new
+.. _`docs/`: https://github.com/deisthree/deis/tree/master/docs
+.. _`easy-fix`: https://github.com/deisthree/deis/labels/easy-fix

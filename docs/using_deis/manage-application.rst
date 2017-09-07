@@ -77,7 +77,7 @@ When working with an application that has been shared with you, clone the origin
 
 .. code-block:: console
 
-  $ git clone https://github.com/deis/example-java-jetty.git
+  $ git clone https://github.com/deisthree/example-java-jetty.git
   Cloning into 'example-java-jetty'... done
   $ cd example-java-jetty
   $ git remote add -f deis ssh://git@local3.deisapp.com:2222/peachy-waxworks.git

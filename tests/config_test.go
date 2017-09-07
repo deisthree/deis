@@ -62,7 +62,7 @@ func configSetup(t *testing.T) *utils.DeisTestConfig {
 	}
 	utils.Execute(t, appsCreateCmd, cfg, false, "")
 	// ensure envvars with spaces work fine on `git push`
-	// https://github.com/deis/deis/issues/2477
+	// https://github.com/deisthree/deis/issues/2477
 	utils.Execute(t, configSet3Cmd, cfg, false, "the Deis team")
 	// ensure custom buildpack URLs are in order
 	url := buildpacks[cfg.ExampleApp]

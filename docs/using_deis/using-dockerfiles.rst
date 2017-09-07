@@ -14,7 +14,7 @@ If you do not have an existing application, you can clone an example application
 
 .. code-block:: console
 
-    $ git clone https://github.com/deis/helloworld.git
+    $ git clone https://github.com/deisthree/helloworld.git
     $ cd helloworld
 
 Dockerfile Requirements
@@ -119,5 +119,5 @@ running that process.
 .. _`Dockerfile`: https://docs.docker.com/reference/builder/
 .. _`Docker Image`: https://docs.docker.com/introduction/understanding-docker/
 .. _`CMD instruction`:  https://docs.docker.com/reference/builder/#cmd
-.. _`issue 1156`: https://github.com/deis/deis/issues/1156
+.. _`issue 1156`: https://github.com/deisthree/deis/issues/1156
 .. _`Procfile`: https://devcenter.heroku.com/articles/procfile

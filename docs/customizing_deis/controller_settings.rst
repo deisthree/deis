@@ -74,7 +74,7 @@ registry:
 Be sure that your custom image functions in the same way as the `stock controller image`_ shipped with
 Deis. Specifically, ensure that it sets and reads appropriate etcd keys.
 
-.. _`stock controller image`: https://github.com/deis/deis/tree/master/controller
+.. _`stock controller image`: https://github.com/deisthree/deis/tree/master/controller
 
 Unit hostname
 -------------

@@ -17,7 +17,7 @@ Deis Workflow
 
 Much of the Deis team's efforts are focused on Deis Workflow which represents
 the next major stable release. For more information about Deis Workflow visit
-`https://deis.com, <https://deis.com>`_ or `https://github.com/deis/workflow, <https://github.com/deis/workflow>`_.
+`https://deis.com, <https://deis.com>`_ or `https://github.com/deisthree/workflow, <https://github.com/deisthree/workflow>`_.
 
 Deis Workflow will follow the same open planning and roadmap process as Deis v1
 published `here, <https://deis.com/docs/workflow/roadmap/roadmap/>`_.

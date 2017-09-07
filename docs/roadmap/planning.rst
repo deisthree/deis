@@ -210,9 +210,9 @@ Thanks to `Amy Lindburg`_ and our friends at `Docker`_ for their inspiration.
 .. _`Amy Lindburg`: https://twitter.com/amylindburg
 .. _`Docker`: https://www.docker.com/
 .. _`event`: https://goo.gl/FGNnOC
-.. _`LTS release issue`: https://github.com/deis/deis/issues/4776
-.. _`Maintainers`: https://github.com/deis/deis/blob/master/MAINTAINERS.md
+.. _`LTS release issue`: https://github.com/deisthree/deis/issues/4776
+.. _`Maintainers`: https://github.com/deisthree/deis/blob/master/MAINTAINERS.md
 .. _`Kubernetes`: http://kubernetes.io/
-.. _`v2 alpha feedback`: https://github.com/deis/deis/issues/4827
+.. _`v2 alpha feedback`: https://github.com/deisthree/deis/issues/4827
 .. _`v2 alpha walkthrough cheatsheet`: https://gist.github.com/arschles/5b7a75a50938913d3eb1
-.. _`v2 beta milestone`: https://github.com/deis/deis/issues/4809
+.. _`v2 beta milestone`: https://github.com/deisthree/deis/issues/4809

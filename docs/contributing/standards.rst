@@ -184,7 +184,7 @@ revisiting the PR before deciding whether or not to merge the changes.
 .. _flake8: https://pypi.python.org/pypi/flake8/
 .. _PEP8: http://www.python.org/dev/peps/pep-0008/
 .. _`The Zen of Python`: http://www.python.org/dev/peps/pep-0020/
-.. _`pull request`: https://github.com/deis/deis/pulls
-.. _`pull requests`: https://github.com/deis/deis/pulls
-.. _`GitHub issue`: https://github.com/deis/deis/issues
-.. _maintainer: https://github.com/deis/deis/blob/master/MAINTAINERS.md
+.. _`pull request`: https://github.com/deisthree/deis/pulls
+.. _`pull requests`: https://github.com/deisthree/deis/pulls
+.. _`GitHub issue`: https://github.com/deisthree/deis/issues
+.. _maintainer: https://github.com/deisthree/deis/blob/master/MAINTAINERS.md

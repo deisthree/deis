@@ -85,7 +85,7 @@ class ModelSerializer(serializers.ModelSerializer):
         """
         Hack to remove DRF's UniqueTogetherValidator when it concerns the UUID.
 
-        See https://github.com/deis/deis/pull/2898#discussion_r23105147
+        See https://github.com/deisthree/deis/pull/2898#discussion_r23105147
         """
         validators = super(ModelSerializer, self).get_validators()
         for v in validators:

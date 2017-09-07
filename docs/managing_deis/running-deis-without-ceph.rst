@@ -228,6 +228,6 @@ When following the :ref:`upgrading-deis` documentation, be sure to use
 .. _`Amazon RDS`: http://aws.amazon.com/rds/
 .. _`Amazon S3`: http://aws.amazon.com/s3/
 .. _`Arne-Christian Blystad`: https://github.com/blystad
-.. _`issue 4568`: https://github.com/deis/deis/issues/4568
+.. _`issue 4568`: https://github.com/deisthree/deis/issues/4568
 .. _`Papertrail`: https://papertrailapp.com/
 .. _`Swift3`: https://github.com/openstack/swift3
